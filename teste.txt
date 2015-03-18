@@ -1,3 +1,4 @@
 Oi, esse é o segundo teste, pra ver como funciona :-)
 Terceiro teste, antes do segundo commit.
 Quarto teste, todo certinho, gás com água.
+Edição no branch novo.
