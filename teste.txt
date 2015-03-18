@@ -1,1 +1,2 @@
-Oi, esse é um teste :-)
+Oi, esse é o segundo teste, pra ver como funciona :-)
+Terceiro teste, antes do segundo commit.
